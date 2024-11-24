@@ -21,3 +21,10 @@ There are 9 skin diseases classification:
 ## Model Used
 VGG16
 ## Library Used
+- Numpy
+- OpenCV
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Keras
+- Tensorflow
